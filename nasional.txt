@@ -39,7 +39,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/inews.png" group-title="INDONESIA 🇮🇩",iNEWS
 http://202.169.224.202:8800/udp/238.2.2.27:1234
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/dtHdpBFF/ezgif-728d64a21c1dd42b.png",SCTV
+#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://i.postimg.cc/dtHdpBFF/ezgif-728d64a21c1dd42b.png",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-SCTV/playlist.m3u8
 
