@@ -765,135 +765,34 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
 ========anak=====
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="ANAK" tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://i.imgur.com/sLaNQYS.jpeg" ,Mentari TV
-https://why.biz.id/Iptv/oxygen.php?id=mentaritv
-
-
-#EXTINF:-1 group-title="ANAK" tvg-id="aniplus.id" tvg-logo="https://i.imgur.com/X3M5t4B.jpeg",ANIPLUS 1 ON
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1  group-title="ANAK" tvg-id="ANIPLUS HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/X3M5t4B.jpeg", ANIPLUS 2 ON
-https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite&chname=ANIPLUS
-
-#EXTINF:-1 group-title="ANAK" tvg-id="Animax.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/v9yfAEM.jpeg",Animax 1 On (R)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
-
-================
-
-#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK",Cbeebies  1 ON (JN)
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
-
-===============
----------
-#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK" tvg-id="Nickelodeon.id",Nickelodeon 1 On (R)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
-https://atemeshield1-voe.sysln.id/live/eds/Nickelodeon/mpd/Nickelodeon.mpd
-
-#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg" group-title="ANAK" tvg-id="NickJr.id" ,Nickelodeon Junior 1 On (R)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
-https://atemeshield1-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
-
-
----------
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="KidsTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg"" group-title="ANAK",Kids TV (JN)
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
-
-
-
-=============
-=============
-
-
---------
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
-#EXTINF:0 tvg-logo="https://i.imgur.com/JVMAQA2.jpeg " group-title="ANAK",Moonbug Kids
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="ANAK" tvg-id="pbskids.us" tvg-logo="https://i.imgur.com/qTN1GVJ.jpeg ",PBS Kids
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
-#EXTINF:-1 group-title="ANAK" tvg-id="zoomoo.sg" tvg-logo="https://i.imgur.com/x7vBeiA.jpeg ",Zoo Moo
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="ANAK" tvg-id="ebskids.kr" tvg-logo="https://i.imgur.com/KqLYir2.jpeg ",EBS Kids
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-
-
-===
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/x7vBeiA.jpeg" group-title="ANAK",DUNIA ANAK 1 ON (RM)
-https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
-
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="26" tvg-logo="https://i.imgur.com/6cGSc3e.jpeg" tvg-name="" group-title="ANAK",Fun Planet 1 ONn 
-https://why.biz.id/Iptv/oxygen.php?id=planetfun
-
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-#EXTINF:-1 tvg-id="MyKidz" tvg-url="https://i.imgur.com/vdL9Wa6.jpeg" group-title="ANAK",MyKids
-http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD
-
---
-
-#EXTINF:-1 tvg-id="DreamWorks.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",Dreamworks HD 1 ON (R)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
-https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
-
-
---
-
-
-======
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.imgur.com/4KdFidK.jpeg" group-title="ANAK" tvg-id="Cartoon Network" , Cartoon Network 1 ON
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
-https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
-
-#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/4KdFidK.jpeg" group-title="ANAK" tvg-id="Cartoon Network" , Cartoon Network 2 ON
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
-https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
-======EDT 2
-
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png" ,Mentari TV
+https://ratuvidio.adptv.workers.dev/index.mpd?id=8237&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co.com/0jPNkGp0/ZOOMOO.png" ,Hip Hip Horee
+http://vidx.semar.my.id/biasa2.mpd?id=7052&type=dash|User-Agent=referrer=http://www.vidio.com/
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHP4gK-yGMUdK7XLqiQlbVuKt_JBxekK5jD0HtMDWzmA&s=10" tvg-id="zoomoo.sg" ,Zoo Moo
+http://zoomoo-samsungau.amagi.tv/playlist.m3u8|User-Agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="Kids" tvg-logo="http://www.biznetvideo.net/images/video/poster/bizkids.jpg" ,Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
+#EXTINF:-1 group-title="Kids" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXKids_2026_01_31_00_41_18.jpg" ,Max Kids
+http://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+#EXTINF:-1 group-title="Kids" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/lusianaputri/ikanterindah/refs/heads/main/cn.png" ,CARTOON NETWORK (S1)
+http://103.58.160.157:8278/720-CARTOONNETWORK/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 group-title="Kids" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/lusianaputri/ikanterindah/refs/heads/main/cn.png,CARTOON NETWORK (S2)" ,No name
+http://103.148.44.38:8000/play/a06u/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonito.png" ,CARTOONITO (S1)
+http://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
+#EXTINF:-1 group-title="Kids" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonito.png" ,CARTOONITO (S2)
+http://103.58.160.157:8278/720-CARTOONITO/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnKids.png" tvg-id="onkids" ,On Kids HD
+https://liveh12byt.vtvprime.vn/hls/BIBI_PLUS_clear/03.m3u8|stream_headers={Authorization=Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc&X-TOKEN=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ}&Authorization=Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc&X-TOKEN=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ}&User-Agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnBibi.png" tvg-id="onbibi" ,On BiBi HD
+https://liveh12byt.vtvprime.vn/hls/BIBI/03.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_davinci.png" tvg-id="davinci" ,Da Vinci (S2)
+https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSk5u8qnZekBJlt1mpK1p4WqtmDfhTyPfABfWm7cN1BQ&s=10" tvg-name="Baby Shark TV" ,Baby Shark TV
+http://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2mUZmc5cRhbsv-7j7J9_wDsD8zgOdLkhrZcHPbFUpFw&s=10" ,Pingfong TV
+http://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 
 ==========
 OLAHRAGA LOKAL
