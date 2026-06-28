@@ -192,9 +192,6 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://i.ibb.co.com/0Rvgpcs7/BTV.png" ,BTV
 https://ratuvidio.adptv.workers.dev/index.mpd?id=6165&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg" tvg-id="029" tvg-name="029" ,Sin Po TV (S1)
-http://tvratu.my.id/nissa/index.mpd?id=19046&type=dash|User-Agent=referrer=http://www.vidio.com/
-
 
 
 
