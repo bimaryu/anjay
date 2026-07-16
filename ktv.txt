@@ -2084,6 +2084,240 @@ https://seneng.org/v/driveid-195435-webdl-1080-terbit21-com-hiram-na-sandali-202
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
 #EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",The Love Scam (2025) 
 https://seneng.org/v/driveid-194546-webrip-1080-terbit21-com-the-love-scam-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+====================================BIOSKOP KAUMLOWO=======================================
+
+#EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/06/waxnw1NpzTPY5JkqWvu0muSopRJ-152x228.jpg" group-title="BIOSKOP KAUMLOWO",  Desert Warrior (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTHTTP:http-referrer=https://playerngefilm21.rpmlive.online/
+https://playerngefilm21.rpmlive.online/hls/fFJdKKi4ylQoXfnPDjZeBg/gee/xieomjsc/9awgf3/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTINF:-1 tvg-logo="https://poster.showcdnx.com/wp-content/uploads/2026/05/film-mortal-kombat-ii-2026-lk21-150x225.jpg.webp" group-title="BIOSKOP KAUMLOWO", Mortal Kombat II (2026) new
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTHTTP:http-referrer=https://savefiles.com/
+https://s1.savefiles.com/v/01/00346/abdpu4icrygs_n/Mortal.Kombat.II.2026.720p.WEB-DL.Sub.May.Eng.Ind.x264.AAC-PENCURiMOViE.SBS.mkv.mp4?t=Ot9F3Zi8mwNVBIUAXsTnMJ8761ZS5cIwoWXra6hbnds&s=1781153095&e=43200&v=47913&sp=2000&i=0.0
+
+#EXTINF:-1 tvg-logo="https://s9.iix.llc/wp-content/uploads/2026/04/29Jdsak3SrwGds5k1t43kH6Khed-152x228.jpg" group-title="BIOSKOP KAUMLOWO",The Legend of Aang The Last Airbender (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://playerngefilm21.rpmlive.online/
+https://playerngefilm21.rpmlive.online/hls/WNCir7mpKnIuYumMUVcYaQ/qu/skucp8et/h8jyxz/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/05/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg" group-title="BIOSKOP KAUMLOWO", Tom Clancy’s Jack Ryan Ghost War (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/Xrf4xXr9
+https://pixeldrain.com/api/file/Xrf4xXr9?download
+
+#EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/06/oMFdQE5hMJ9JjhNORegwTo0GKmh-170x255.jpg" group-title="BIOSKOP KAUMLOWO", Fuze (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTHTTP:{"Origin": "https://vidara.so", "Referer": "https://vidara.so/"}
+https://s2-100-es3.s1q2105.com/hls2/47xaTAvolTFZf/master.m3u8?token=ad8a35ba9bb1c2c468b7b407c62690a5-1780916624-43.252.106.130-467662173c2793c4f0d445537dd258fe633a2d89f240a4e2dba92281c5354ab1
+
+#EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/05/ul4dQcA68mtSx8J56N5gEcaCCtP-170x255.jpg" group-title="BIOSKOP KAUMLOWO", My Dearest Assassin (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/rTXejqSc
+https://pixeldrain.com/api/file/rTXejqSc?download
+
+#EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/04/mTcXNQHnabavseapSfcAKhTnC3V-170x255.jpg" group-title="BIOSKOP KAUMLOWO", Ballistic (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/kft1wp85
+https://pixeldrain.com/api/file/kft1wp85?download
+
+#EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/06/xIZ8huVdXCL7OMtsjd3XvmFP5sK-152x228.jpg" group-title="BIOSKOP KAUMLOWO", Seven Snipers (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.
+#EXTHTTP:http-referrer=https://playerngefilm21.rpmlive.online/
+https://playerngefilm21.rpmlive.online/hls/ivsROBiM6ZTieSMgx9BwnA/us/qt5b831q/h35m8m/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+#EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/05/udXvLxC5gAqN8SinemyFBEcHpTf-170x255.jpg" group-title="BIOSKOP KAUMLOWO", The Magic Faraway Tree (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.
+#EXTHTTP:http-referrer=https://playerngefilm21.rpmlive.online/
+https://playerngefilm21.rpmlive.online/hls/Oo1VDebu0J3r1AnjuahMhw/tab/krnvuyuf/hcxlhi/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/04/e5EKqk9V7N3w0WvYFhl6wSVrMp0-170x255.jpg" group-title="BIOSKOP KAUMLOWO", Brothers Under Fire (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/weSyb2ND
+https://pixeldrain.com/api/file/weSyb2ND?download
+
+#EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/04/jRf89HVEtBZiSnOXXWDhZOfuTwW-170x255.jpg" group-title="BIOSKOP KAUMLOWO", Ready or Not Here I Come (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.
+#EXTHTTP:http-referrer=https://pixeldrain.com/u/CG6Wa8ji
+https://pixeldrain.com/api/file/CG6Wa8ji?download
+
+#EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/04/adk8weka3O5648g3de4z3y4aE7G-170x255.jpg" group-title="BIOSKOP KAUMLOWO", Thrash (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.
+#EXTHTTP:http-referrer=https://pixeldrain.com/u/TCxC6xtX
+https://pixeldrain.com/api/file/TCxC6xtX?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/05/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg" group-title="BIOSKOP KAUMLOWO", Beast (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.
+#EXTHTTP:http-referrer=https://pixeldrain.com/u/68T54ikC
+https://pixeldrain.com/api/file/68T54ikC?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/03/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg" group-title="BIOSKOP KAUMLOWO", Send Help (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.
+#EXTHTTP:http-referrer=https://pixeldrain.com/u/yPt5t3aV
+https://pixeldrain.com/api/file/yPt5t3aV?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/05/fwnXwNRnxwtCJXLsM0EiRm2Vvoc.jpg" group-title="BIOSKOP KAUMLOWO", God of Frogs (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/7e6P69Lh
+https://pixeldrain.com/api/file/7e6P69Lh?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/05/yMztFelubPpfCqDIWFn7jCl0ZMK.jpg" group-title="BIOSKOP KAUMLOWO", Son of Revenge The Story of Kalevala (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/3dukMgbh
+https://pixeldrain.com/api/file/3dukMgbh?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/04/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg" group-title="BIOSKOP KAUMLOWO", Vengeance (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/FpbNeqGQ
+https://pixeldrain.com/api/file/FpbNeqGQ?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/04/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg" group-title="BIOSKOP KAUMLOWO", Crime 101 (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/e2jwRaWX
+https://pixeldrain.com/api/file/e2jwRaWX?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/02/sojEzvfxR2DBcDSJyAisX8TWjov.jpg" group-title="BIOSKOP KAUMLOWO", The Bluff (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/99fdq2kh
+https://pixeldrain.com/api/file/99fdq2kh?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/01/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg" group-title="BIOSKOP KAUMLOWO", The Wrecking Crew (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/u7F3mooj
+https://pixeldrain.com/api/file/u7F3mooj?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/01/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="BIOSKOP KAUMLOWO", The Rip (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/prhK8LMh
+https://pixeldrain.com/api/file/prhK8LMh?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2019/11/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg" group-title="BIOSKOP KAUMLOWO", Rambo Last Blood (2019)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/CEKZf6wT
+https://pixeldrain.com/api/file/CEKZf6wT
+https://pixeldrain.com/api/file/CEKZf6wT?download
+https://pixeldrain.com/api/file/CEKZf6wT?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2023/01/r8LPeldxskHrGJTPfhICguCip2H.jpg" group-title="BIOSKOP KAUMLOWO", Rambo (2008)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/53FDRvXz
+https://pixeldrain.com/api/file/53FDRvXz?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/04/aROe6QU12FTDhF6Lw9YHZqeCZUq.jpg" group-title="BIOSKOP KAUMLOWO", Protector (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/yo5EQMNe
+https://pixeldrain.com/api/file/yo5EQMNe?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/04/5xgxxmLivJXL8aF0HdZfpx8aAIo-300x450.jpg" group-title="BIOSKOP KAUMLOWO", Psycho Killer (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/P4dSaxYR
+https://pixeldrain.com/api/file/P4dSaxYR?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/04/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg" group-title="BIOSKOP KAUMLOWO", Mercy (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/2pmvLkZ2
+https://pixeldrain.com/api/file/2pmvLkZ2?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/03/ipTXhWCJgeg5RN0CpmFZYDzOzQi.jpg" group-title="BIOSKOP KAUMLOWO", Wardriver (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/2n2aMhTD
+https://pixeldrain.com/api/file/2n2aMhTD?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/03/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg" group-title="BIOSKOP KAUMLOWO", War Machine (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/Z6qgJxX3
+https://pixeldrain.com/api/file/Z6qgJxX3?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.net/wp-content/uploads/2024/02/vRdnxy6L4NQyKfcoxKuz7lokXmm.jpg" group-title="BIOSKOP KAUMLOWO", Avatar The Last Airbender s2e1 (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/x9qXL9V4
+https://pixeldrain.com/api/file/x9qXL9V4?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.net/wp-content/uploads/2024/02/vRdnxy6L4NQyKfcoxKuz7lokXmm.jpg" group-title="BIOSKOP KAUMLOWO", Avatar The Last Airbender s2e2 (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/6uVbTXh3
+https://pixeldrain.com/api/file/6uVbTXh3?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.net/wp-content/uploads/2024/02/vRdnxy6L4NQyKfcoxKuz7lokXmm.jpg" group-title="BIOSKOP KAUMLOWO", Avatar The Last Airbender s2e3 (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ri4pW4UD
+https://pixeldrain.com/api/file/ri4pW4UD?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.net/wp-content/uploads/2024/02/vRdnxy6L4NQyKfcoxKuz7lokXmm.jpg" group-title="BIOSKOP KAUMLOWO", Avatar The Last Airbender s2e4 (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/EQPWHGVa
+https://pixeldrain.com/api/file/EQPWHGVa?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.net/wp-content/uploads/2024/02/vRdnxy6L4NQyKfcoxKuz7lokXmm.jpg" group-title="BIOSKOP KAUMLOWO", Avatar The Last Airbender s2e5 (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/41ieshNL
+https://pixeldrain.com/api/file/41ieshNL?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.net/wp-content/uploads/2024/02/vRdnxy6L4NQyKfcoxKuz7lokXmm.jpg" group-title="BIOSKOP KAUMLOWO", Avatar The Last Airbender s2e6 (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/aoYf8wnG
+https://pixeldrain.com/api/file/aoYf8wnG?download
+
+=============================
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/27/Poster_13_Bom_di_Jakarta.jpg" group-title="BIOSKOP INDO",13 Bomb Di Jakarta
+https://pixeldrain.com/api/file/ezqDwxkK?download
+https://pixeldrain.com/api/file/ZQVckcfF?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/cL2KULWckh0p6EGIVACzZPR5rh3.jpg" group-title="BIOSKOP INDO",Imam Tanpa Makmum
+https://pixeldrain.com/api/file/JKM91MwQ?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/fMaxCjekSd9g4qyyAEYm3cvckui.jpg" group-title="BIOSKOP INDO",Sewu Dino
+https://pixeldrain.com/api/file/RAo1H7gc?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/kxhqebpoVDye8XDrWsLUpItucv5.jpg" group-title="BIOSKOP INDO",Layangan Putus The Movie
+https://pixeldrain.com/api/file/6fwxFxx9?download
+
+#EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/05/fPJ9OjLgAQoLZrPeL6ZfQwNkfPK-170x255.jpg" group-title="BIOSKOP INDO", Agak Laen Menyala Pantiku! (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTHTTP:http-referrer=https://pixeldrain.com/u/M3MFsUru
+https://pixeldrain.com/api/file/M3MFsUru?download
+
+#EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/05/sCTA6pGCLx7NjzMu3ZESlvfguLL-170x255.webp" group-title="BIOSKOP INDO", Sebelum Dijemput Nenek (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTHTTP:http-referrer=https:https://pixeldrain.com/u/EWHNrpfu
+https://pixeldrain.com/api/file/EWHNrpfu?download
+
+#EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/05/84Az3SHKRJDg971KQ0j9nZWYTcf-170x255.jpg" group-title="BIOSKOP INDO", Alas Roban (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTHTTP:http-referrer=https://pixeldrain.com/u/VLXZJPNu
+https://pixeldrain.com/api/file/VLXZJPNu?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/05/8YzFxF44uaDxzLEGa64etR0vDzT.jpg" group-title="BIOSKOP INDO", Suka Duka Tawa (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTHTTP:http-referrer=https://pixeldrain.com/u/qxkWpeAr
+https://pixeldrain.com/api/file/qxkWpeAr?download
+
+#EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/05/avFrX5pi0iojFe5G4reUReyzA2m-170x255.jpg" group-title="BIOSKOP INDO", Musuh Dalam Selimut (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/Wp484jYg
+https://pixeldrain.com/api/file/Wp484jYg?download
+
+#EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/05/p5Rww9JrI2O3wDdQK16yPdptbKI-170x255.jpg" group-title="BIOSKOP INDO", Comic 8 Revolution Santet K4bin3t (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://pixeldrain.com/api/file/e5E75fj8?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/05/1cKmQ5Hvs9SzlJSEpYSaz4Z0Era.jpg" group-title="BIOSKOP INDO",Qorin 2 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/S3iEasDF
+https://pixeldrain.com/api/file/S3iEasDF?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/05/7TS9QYBYnLDJBGfGuU9WmSZWReW.jpg" group-title="BIOSKOP INDO",Modual Nekad (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/HYfNan2B
+https://pixeldrain.com/api/file/HYfNan2B?download
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/wNpzl8zFKzssy18qiecIzzAKZpm.jpg" group-title="BIOSKOP INDO",Warung Pocong (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTHTTP:{"Origin": "https://savefiles.com", "Referer": "https://savefiles.com/"}
+https://s3.savefiles.com/hls2/01/00364/lang/eng/666ri889zdyp_eng/index.m3u8?t=4ZHz-F3qEqVPK74r_Qvx17du4O_TcEgdJt_YbA35vKY&s=1781716669&e=43200&v=221831&srv=s4&i=0.0&sp=0&fr=666ri889zdyp
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.net/wp-content/uploads/2026/06/fA7ByoOADIcwq363GdLbFZl2zgJ.jpg" group-title="BIOSKOP INDO", Kafir Gerbang Sukma (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/5xDqNRHD
+https://pixeldrain.com/api/file/5xDqNRHD?download
 
 ########
 
