@@ -2311,8 +2311,8 @@ https://pixeldrain.com/api/file/HYfNan2B?download
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/wNpzl8zFKzssy18qiecIzzAKZpm.jpg" group-title="BIOSKOP INDO",Warung Pocong (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://savefiles.com", "Referer": "https://savefiles.com/"}
-https://s3.savefiles.com/hls2/01/00364/lang/eng/666ri889zdyp_eng/index.m3u8?t=4ZHz-F3qEqVPK74r_Qvx17du4O_TcEgdJt_YbA35vKY&s=1781716669&e=43200&v=221831&srv=s4&i=0.0&sp=0&fr=666ri889zdyp
+#EXTHTTP:{"Origin": "https://dailymotion.com", "Referer": "https://dailymotion.com/"}
+https://cdndirector.dailymotion.com/cdn/manifest/video/xahigca.m3u8?sec=Dk3sC9gRA3XTa9QXXCOZmkl9CBoQ3uOaNn6rqB8migOo0eQV8TfffYaKXdf45AAS80Pl3oV_-4gn8qIacmAYqrdUT6zXyrklhz-zm4Lo-2d21SSfJa6YJ6EhuMl-DQCu&dmTs=959217&dmV1st=b51bc48a-11af-48b4-62d6-8b1f9e4f3a2f
 
 #EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.net/wp-content/uploads/2026/06/fA7ByoOADIcwq363GdLbFZl2zgJ.jpg" group-title="BIOSKOP INDO", Kafir Gerbang Sukma (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
