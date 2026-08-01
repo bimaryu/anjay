@@ -43,7 +43,17 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" ,SCTV
-http://tvratu.my.id/nissa/index.mpd?id=204&type=dash|license_type=com.widevine.alpha&license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm&User-Agent=VidioPlayer/6.41.11
+#EXTVLCOPT:http-referrer=https://www.panentv.com/
+#EXTVLCOPT:http-origin=https://www.panentv.com/
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+http://opplextv.cyou:8080/Ahsaan003/shahfaisal/351030
 
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png", INDOSIaR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
