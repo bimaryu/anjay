@@ -175,7 +175,7 @@ http://opplextv.cyou:8080/Ahsaan003/shahfaisal/351030
 #KODIPROP:inputstream=ffmpegdirect
 #KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
 #KODIPROP:network-caching=2000
-http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350972
+https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest-avc1.mpd
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/C5VjfGVQ/TRANSTV.png" group-title="INDONESIA 🇮🇩",TransTV
