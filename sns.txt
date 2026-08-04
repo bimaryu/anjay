@@ -189,7 +189,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
 #EXTINF:-1 tvg-id="Trans7" tvg-url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ96ZZ6Smw3yXFDrvOdiFTmSqisSM-ZYP_KhQ&s" tvg-logo="https://i.ibb.co.com/fV6VG0Vt/TRANS7.png" group-title="INDONESIA 🇮🇩",TRANS7 HD
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+http://gvisiontv.channell.my.id/ch/id/trans7dtkdirect.php/.m3u8
 
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-name="ANTV" tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png", ANTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
