@@ -189,12 +189,12 @@ http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
-#EXTINF:-1 tvg-id="Trans7" tvg-url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ96ZZ6Smw3yXFDrvOdiFTmSqisSM-ZYP_KhQ&s" tvg-logo="https://i.ibb.co.com/fV6VG0Vt/TRANS7.png" group-title="INDONESIA 🇮🇩",TRANS7 HD
-http://gvisiontv.channell.my.id/ch/id/trans7dtkdirect.php/.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.ibb.co.com/fV6VG0Vt/TRANS7.png" group-title="INDONESIA 🇮🇩",Trans7
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=7.play
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-name="ANTV" tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png", ANTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
