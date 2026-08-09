@@ -238,10 +238,13 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1tJQ0Mzp/MAGNA.png" group-title="INDONESIA 🇮🇩", Magna TV
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://i.ibb.co.com/MkkwN1Zd/RTV.png" group-title="INDONESIA 🇮🇩",RTV (Dens)
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/MkkwN1Zd/RTV.png" group-title="INDONESIA 🇮🇩",RTV
-https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dens.tv/|referrer=https://www.dens.tv/|Origin=https://www.dens.tv|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTHTTP:{"Referer":"https://www.dens.tv/","referrer":"https://www.dens.tv/","Origin":"https://www.dens.tv","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"}
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
