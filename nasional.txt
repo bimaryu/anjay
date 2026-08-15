@@ -35,13 +35,15 @@ http://beetv.my.id/stream/rctiplus.m3u8?ch=gtv
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 http://beetv.my.id/stream/rctiplus.m3u8?ch=inews
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="INDONESIA 🇮🇩",SCTV
-#http://103.58.160.157:8278/720-SCTV/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png",SCTV
+https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png" group-title="INDONESIA 🇮🇩",INDOSIAR
-#http://103.58.160.157:8278/720-INDOSIAR/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png",Indosiar
+https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
 
 
 
