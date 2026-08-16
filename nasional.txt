@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/F48M3H1r/MNC.png" group-title="INDONESIA 🇮🇩",2. MNCTV +
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Mnctv.m3u8
+http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png" group-title="INDONESIA 🇮🇩",3. GTV +
 #EXTVLCOPT:http-user-agent=android-R+
