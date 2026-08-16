@@ -16,7 +16,7 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co.com/8LSDx2WG/RCTI.png" group-title="INDONESIA 🇮🇩",1. RCTI +
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/RCTI.m3u8
+http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/F48M3H1r/MNC.png" group-title="INDONESIA 🇮🇩",2. MNCTV +
 #EXTVLCOPT:http-user-agent=android-R+
@@ -26,10 +26,10 @@ http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png" group-title="INDONESIA 🇮🇩",3. GTV +
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/GlobalTV.m3u8
+http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 
 #EXTINF:-1 tvg-id="iNews" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.ibb.co.com/Dfjt4MKN/INEWS.png" group-title="INDONESIA 🇮🇩",iNews 
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Inews.m3u8
+http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 
 #EXTINF:-1 tvg-id="SCTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="INDONESIA 🇮🇩",SCTV 
 http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NacE9Ra0g0dTlhc29keDE1OHU4Vm0zV3MvcU5CUjJCSWZTR1FJRnF2VXEyQQ
@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Trans7.m3u8
 
 #EXTINF:-1 tvg-id="ANTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png" group-title="INDONESIA 🇮🇩",ANTV HD 
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/ANTV.m3u8
+http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=antv
 
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
