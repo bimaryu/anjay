@@ -38,11 +38,19 @@ http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NacE9Ra0g0dTlhc29keDE1OHU4Vm0zV3M
 #EXTINF:-1 tvg-id="Indosiar" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png" group-title="INDONESIA 🇮🇩",Indosiar 
 http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ
 
-#EXTINF:-1 tvg-id="TransTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.ibb.co.com/C5VjfGVQ/TRANSTV.png" group-title="INDONESIA 🇮🇩",TransTV
-https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1786900152403&wowzatokenhash=e3Rrpuv8fNapqDmJHaltDbLMk476NPmYK8PqQtmnY1E%3D
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TransTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.ibb.co.com/C5VjfGVQ/TRANSTV.png" group-title="INDONESIA 🇮🇩",TransTV HD (TRANSCORP)
+https://video.detik.com/transtv/smil:transtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Trans7" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.ibb.co.com/fV6VG0Vt/TRANS7.png" group-title="INDONESIA 🇮🇩",Trans7 HD 
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Trans7.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.ibb.co.com/fV6VG0Vt/TRANS7.png" group-title="INDONESIA 🇮🇩",Trans7 HD (TRANSCORP)
+https://video.detik.com/trans7/smil:trans7/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ANTV.id" tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png" group-title="INDONESIA 🇮🇩", ANTV 
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 
